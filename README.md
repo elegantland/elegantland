@@ -1,4 +1,4 @@
-# Hi there 👋 我是 **儒雅**  
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=200&color=70A5FD&text=Hi。同样喜欢精简的你&animation=fadeIn&desc=我是儒雅&descAlignY=60&fontAlignY=40&fontSize=20)
 
 ---
 
@@ -6,7 +6,7 @@
 
 因为有很多很多讨厌的事，所以正在使用和编写各种 **Android/Windows/Web** 相关的精简广告/信息流相关的小工具，准备出个清单介绍一下各种我使用的好用的软件版本。  
 
-- **💻 常用语言**: **JavaScript, Python, C++**  
+- **💻 常用语言**: JavaScript, Python, C++  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elegantland&layout=compact&theme=radical)  
 
 ---
