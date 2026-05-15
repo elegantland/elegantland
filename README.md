@@ -31,6 +31,5 @@
 ## 📬 联系我  
 
 - [🌐 GitHub](https://github.com/elegantland)  
-- [📧 QQ 邮箱](mailto:2543971286@qq.com)  
 
 ---
