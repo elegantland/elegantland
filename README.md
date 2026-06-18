@@ -23,8 +23,6 @@
 ## 🌟 兴趣爱好  
 
 - 🎵 **最近在听**: [任然](https://music.163.com/?from=itab#/artist?id=9255) / [菫時](https://space.bilibili.com/796556) / [雾氧uo](https://space.bilibili.com/3493078891497932)  
-- 📚 **最近在看**: [知乎合集（负面）](https://github.com/elegantland/elegantland/blob/main/2025.md)  
-- 🎮 **最近在玩**: 杀手 / FF14 / 原神 / 炉石传说  
 
 ---
 
